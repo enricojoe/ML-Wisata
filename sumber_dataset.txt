@@ -1,0 +1,2 @@
+Nama dataset: SmSA (IndoNLU) Dataset
+Link dataset: https://metatext.io/datasets-list/indonesian-language
